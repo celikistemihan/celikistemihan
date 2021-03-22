@@ -2,4 +2,4 @@
 
 Enjoys developing mobile apps. Loves Swift and iOS development.
 
-https://raw.githubusercontent.com/celikistemihan/Visualization/6747a2332d356dd82795beee40bc7a9fa53ce8ff/generated/languages.svg
+![image](https://user-images.githubusercontent.com/40631723/111964556-cae47800-8b05-11eb-9e4a-07d3502f0475.png)
